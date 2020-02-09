@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  position: MyString
+  hired_in: MyString
+  start: 1
+  end_d: 1
+  board: false
+  count: 1
+
+two:
+  name: MyString
+  position: MyString
+  hired_in: MyString
+  start: 1
+  end_d: 1
+  board: false
+  count: 1
